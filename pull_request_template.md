@@ -1,7 +1,7 @@
 # Pre-flight Checklist
-* Are all the features in this PR tested? 
-* Have other features this PR touches also been tested?
-* Has the code been formatted for consistency and readability?
+- [ ] Are all the features in this PR tested? 
+- [ ] Have other features this PR touches also been tested?
+- [ ] Has the code been formatted for consistency and readability?
 
 # Overview
 _[Provide a summary  of this pr. Is this a new module? A new feature? a bug fix? a code reformat?]_
