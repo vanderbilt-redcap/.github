@@ -5,10 +5,10 @@
 - [ ] Did you also update related documentation and tooling, such as .readme or tests?
 
 # Overview
-_[Provide a summary  of this pr. Is this a new module? A new feature? a bug fix? a code reformat?]_
+<!--Provide a summary  of this pr. Is this a new module? A new feature? a bug fix? a code reformat?-->
 
 # Context
-_[Provide a URL to a Jira, Pivotal Tracker story. If those are not appropriate, provide the requirements this PR addresses.]_
+<!--Provide a URL to a Jira, Pivotal Tracker story. If those are not appropriate, provide the requirements this PR addresses.-->
 
 # Screenshots
-_[Include screenshots of new pages or features to help other developers understand the features and markup.]_
+<!--Include screenshots of new pages or features to help other developers understand the features and markup.-->
