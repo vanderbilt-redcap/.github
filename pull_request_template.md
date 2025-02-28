@@ -1,4 +1,5 @@
 # Pre-flight Checklist
+<!--If any of these checkboxes do not apply, please remove them-->
 - [ ] Are all the features in this PR tested? 
 - [ ] Have other features this PR touches also been tested?
 - [ ] Has the code been formatted for consistency and readability?
