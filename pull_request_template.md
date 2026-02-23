@@ -1,6 +1,7 @@
 # Pre-flight Checklist
-- [ ] Are all the features in this PR tested? 
-- [ ] Have other features this PR touches also been tested?
+- [ ] Have all lines in this PR been reviewed & optimized by a human with appropriate coding skills? 
+- [ ] Are all the features in this PR tested by a human? 
+- [ ] Have other features this PR touches also been tested by a human?
 - [ ] Has the code been formatted for consistency and readability?
 - [ ] Did you also update related documentation and tooling, such as .readme or tests?
 
